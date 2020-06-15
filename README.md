@@ -7,9 +7,9 @@
 
 <br>
 
-<img src="public/img/weatherapp_v1.gif" alt="Weather App" style="width: 200px;" >
+<img src="public/img/weatherapp_v1.gif" alt="Weather App" style="width: 200px;">
 
-<br>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
