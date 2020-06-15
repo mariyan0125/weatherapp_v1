@@ -6,9 +6,8 @@
 - Responsive design
 
 <br>
-<div style="width: 200px; height: 300px;">
-  <img src="public/img/weatherapp_v1.2.gif" alt="Weather App">
-</div>
+
+  <img src="public/img/weatherapp_v1.3.gif" alt="Weather App">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
