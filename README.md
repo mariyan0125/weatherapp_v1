@@ -6,7 +6,7 @@
 - Responsive design
 
 <br>
-<div style="width: 200px;">
+<div style="width: 200px; height: 300px;">
   <img src="public/img/weatherapp_v1.2.gif" alt="Weather App">
 </div>
 
