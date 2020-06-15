@@ -1,3 +1,15 @@
+# Weather app
+**Weather app built with openweathermap API**
+- React Hooks 
+- React Context API
+- SAAS
+- Responsive design
+
+<br>
+
+<img src="img/weatherapp_v1.gif" alt="Weather App">
+
+<br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
