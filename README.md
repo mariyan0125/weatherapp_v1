@@ -2,7 +2,7 @@
 **Weather app built with openweathermap API**
 - React Hooks 
 - React Context API
-- SAAS
+- Scss
 - Responsive design
 
 <br>
